@@ -1,4 +1,4 @@
-# Hi, I'm Pelumi 👋
+# Hi, I'm Pelumi
 
 **Technology & Engineering Professional | Cloud, Infrastructure, DevOps & Software Delivery**
 
