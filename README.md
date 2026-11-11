@@ -2,7 +2,7 @@
 
 **Technology & Engineering Professional | Cloud, Infrastructure, DevOps & Software Delivery**
 
-I build and document practical technology solutions across cloud infrastructure, automation, application delivery, systems design and data-driven operations. My work spans AWS architecture, infrastructure as code, containerized delivery, serverless APIs, cloud migration planning and cost visibility—supported by hands-on implementation, repeatable validation and clear technical documentation.
+I build and document practical technology solutions across cloud infrastructure, automation, application delivery, systems design and data-driven operations. My work spans AWS architecture, infrastructure as code, containerized delivery, serverless APIs, cloud migration planning and cost visibility, supported by hands-on implementation, repeatable validation and clear technical documentation.
 
 I’m interested in engineering roles where I can connect technical execution with reliable systems, thoughtful architecture and real business needs.
 
@@ -36,4 +36,4 @@ I’m interested in engineering roles where I can connect technical execution wi
 - Validate outcomes with tests, CI runs and deployment evidence.
 - Document assumptions and limitations honestly so others can understand and extend the work.
 
-I’m open to **international remote** and **strong Nigeria-based** opportunities across cloud and infrastructure engineering, DevOps, platform engineering, systems engineering, technical implementation and associate solutions architecture.
+I’m open to opportunities across cloud and infrastructure engineering, DevOps, platform engineering, systems engineering, technical implementation and associate solutions architecture.
